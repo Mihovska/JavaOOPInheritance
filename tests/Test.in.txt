@@ -1,0 +1,15 @@
+Cat
+Tom 12 Male
+Dog
+Rex 132 Male
+Beast!
+===
+Frog
+Kermit 12 Male
+Beast!
+===
+Frog
+Froakie -2 Male
+Frog
+Froakie 2 Male
+Beast!

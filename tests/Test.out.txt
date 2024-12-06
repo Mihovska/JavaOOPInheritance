@@ -1,0 +1,15 @@
+Cat
+Tom 12 Male
+Meow meow
+Dog
+Rex 132 Male
+Woof!
+===
+Frog
+Kermit 12 Male
+Ribbit
+===
+Invalid input!
+Frog
+Froakie 2 Male
+Ribbit
